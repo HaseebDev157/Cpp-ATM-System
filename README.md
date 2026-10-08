@@ -1,4 +1,4 @@
-# C-Projects
+# ATM System
 My C++ practice projects. Simple Projects I made while learning C++.
 
 | ATM System | Simple console ATM with PIN login, deposit, withdra
