@@ -58,5 +58,3 @@ Your current balance is: 5000.00
 - Passing values by reference
 - Checking user input
 
-## License
-MIT
